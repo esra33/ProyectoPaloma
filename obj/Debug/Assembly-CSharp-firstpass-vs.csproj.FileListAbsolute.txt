@@ -1,0 +1,11 @@
+D:\6. GameProjects\ProyectoPaloma\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\6. GameProjects\ProyectoPaloma\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\6. GameProjects\ProyectoPaloma\Temp\bin\Debug\UnityEditor.dll
+D:\6. GameProjects\ProyectoPaloma\Temp\bin\Debug\UnityEngine.dll
+D:\6. GameProjects\ProyectoPaloma\Temp\bin\Debug\Mono.Cecil.dll
+D:\6. GameProjects\ProyectoPaloma\Temp\bin\Debug\nunit.framework.dll
+D:\6. GameProjects\ProyectoPaloma\Temp\bin\Debug\Unity.DataContract.dll
+D:\6. GameProjects\ProyectoPaloma\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\6. GameProjects\ProyectoPaloma\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\6. GameProjects\ProyectoPaloma\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\6. GameProjects\ProyectoPaloma\obj\Debug\Assembly-CSharp-firstpass.pdb
